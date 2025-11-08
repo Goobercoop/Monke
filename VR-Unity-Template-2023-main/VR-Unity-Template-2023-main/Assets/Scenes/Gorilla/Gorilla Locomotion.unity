@@ -884,7 +884,23 @@ PrefabInstance:
       value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 430285557519011103, guid: ce5c2251d70caf148bbad13bb99ebf54, type: 3}
+      propertyPath: maxJumpSpeed
+      value: 6.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 430285557519011103, guid: ce5c2251d70caf148bbad13bb99ebf54, type: 3}
       propertyPath: velocityLimit
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 430285557519011103, guid: ce5c2251d70caf148bbad13bb99ebf54, type: 3}
+      propertyPath: jumpMultiplier
+      value: 1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 430285557519011103, guid: ce5c2251d70caf148bbad13bb99ebf54, type: 3}
+      propertyPath: defaultSlideFactor
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 430285557519011168, guid: ce5c2251d70caf148bbad13bb99ebf54, type: 3}
+      propertyPath: m_Mass
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 430285557680239484, guid: ce5c2251d70caf148bbad13bb99ebf54, type: 3}
